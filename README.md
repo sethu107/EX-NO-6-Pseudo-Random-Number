@@ -54,7 +54,8 @@ int main()
 ```
 
 # OUTPUT
-![alt text](<Screenshot (29).png>)
+![Screenshot (29)](https://github.com/user-attachments/assets/940959b2-61ae-4123-b509-013af6da6a40)
+
 
 
 # RESULT
